@@ -22,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshupriya06&show_icons=true&locale=en&layout=compact" alt="anshupriya06" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anshupriya06/anshupriya06/output/snake.svg" alt="Snake animation" />
+
+
