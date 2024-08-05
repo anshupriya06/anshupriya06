@@ -2,7 +2,13 @@
 
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Full-stack development**
+- 💬 Ask me about **Full stack development**
+
+- 👯 I’m looking to collaborate on **AIML projects**
+
+- 🤝 I’m looking for help with **App development**
+
+- 📫 How to reach me ✉️**anshupriyadnr06@gmail.com**
 
 - ⚡ Fun fact **I love exploring the technologies that doesn't exist.**
 
