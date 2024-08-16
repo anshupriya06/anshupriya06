@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning and exploring App Development**
+- 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning **
 
 - 💬 Ask me about **Full stack development**
 
 - 👯 I’m looking to collaborate on **AIML projects**
 
-- 🤝 I’m looking for help with **App development**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 📫 How to reach me ✉️**anshupriyadnr06@gmail.com**
 
