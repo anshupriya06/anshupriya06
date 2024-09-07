@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ✉️**anshupriyadnr06@gmail.com**
 
-- 💡 Fun fact **I have a habit of planting 🌱 virtual trees while coding 💻... because saving the planet 🌍 takes both roots 🌳 and routes 🌱🚀💻!**
+- 💡 Fun fact I have a habit of **planting 🌱 virtual trees** while coding 💻... because saving the planet 🌍 takes both **roots 🌳 and routes** 🌱🚀💻!
 
 [![](https://visitcount.itsvg.in/api?id=anshupriya06&icon=0&color=0)](https://visitcount.itsvg.in)
 
