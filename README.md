@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning **
+- 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Full stack development**
 
