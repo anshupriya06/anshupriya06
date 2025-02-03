@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Deep Learning**
 
-- 💬 Ask me about **Full stack development**
+- 💬 Ask me about **Full stack development And Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **AIML projects**
 
