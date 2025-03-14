@@ -29,8 +29,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriya06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshupriya06&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api?username=anshupriya06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=anshupriya06&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api?username=anshupriya06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
