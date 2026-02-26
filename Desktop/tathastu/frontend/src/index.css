@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  background-color: #fbeee6; /* light red-brown background */
+  color: #7c2f1c; /* deep red-brown text */
+}
+
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE/Edge purane versions */
+}
+
+::-webkit-scrollbar, 
+::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
