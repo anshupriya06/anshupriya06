@@ -21,7 +21,7 @@
 
 - 🧩 I own backend subsystems **end to end** — service architecture, relational data modelling, REST API design and the React interfaces on top, backed by automated test coverage
 
-- 🚢 I've designed and shipped a **full production web platform solo** — Next.js 15, a paginated blog, SEO and serverless APIs
+- 🚢 I've designed and shipped a **full production web platform** — Next.js 15, a paginated blog, SEO and serverless APIs
 
 - 🌱 I'm going deeper into **LLM orchestration, voice agents and real-time systems**
 
