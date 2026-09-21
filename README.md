@@ -16,15 +16,17 @@
 
 # 💫 About Me:
 
-- 🎤 I'm currently building a **real-time voice-AI math tutor** at **Smartwit** — students speak and draw on a shared canvas while an AI agent answers with voice and synchronized diagrams ⚡
 
-- 🧩 I architected and own the **student gamification subsystem** end to end — 12 backend services, 6 data models, 15 migrations, a 9-endpoint REST API and the React profile UI, backed by ~120 automated tests
+- 🎤 I work on **real-time voice-AI** products — building systems where people speak and draw while an AI agent responds with voice and synchronized visuals ⚡
 
-- 🚢 I designed and shipped the company's **entire marketing platform solo** — ~20 routes on Next.js 15 with a paginated blog and serverless contact API
+- 🧩 I own backend subsystems **end to end** — service architecture, relational data modelling, REST API design and the React interfaces on top, backed by automated test coverage
+
+- 🚢 I've designed and shipped a **full production web platform solo** — Next.js 15, a paginated blog, SEO and serverless APIs
 
 - 🌱 I'm going deeper into **LLM orchestration, voice agents and real-time systems**
 
 - 💬 Ask me about **full-stack engineering, FastAPI, React, or applied AI/ML**
+
 
 - 👯 I'm open to collaborating on **AI/ML and full-stack projects**
 
